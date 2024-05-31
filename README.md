@@ -1,2 +1,2 @@
 # Excel-Data-Analysis-Projects
-This repository my Data Analysis project completed usin Excel.
+This repository contains my data analysis projects created using Excel.
